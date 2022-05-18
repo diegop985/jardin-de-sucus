@@ -2,4 +2,5 @@ button {
   border: none;
   background-color: white;
   font-size: 20px;
+  cursor: pointer;
 }
