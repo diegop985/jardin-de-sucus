@@ -1,11 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import Logo from "../../logo.png"
+import { CartWidget } from '../CartWidget/CartWidget';
 import './navbar.css'
-import { AiOutlineShoppingCart } from 'react-icons/ai'
+
+
 
 export const NavBar = () => {
-    
-    const navlinks = ["Home","Tienda","Galeria","About us", <AiOutlineShoppingCart/>]
+
+
+    const navlinks = ["Home","Tienda","Galeria","About us",<CartWidget/>]
 
 
     return(
