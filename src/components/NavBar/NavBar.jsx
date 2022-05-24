@@ -5,10 +5,10 @@ import './navbar.css'
 
 
 
-export const NavBar = () => {
+export const NavBar = ({productosQty}) => {
 
 
-    const navlinks = ["Home","Tienda","Galeria","About us",<CartWidget/>]
+    const navlinks = ["Home","Tienda","Galeria","About us",<CartWidget productosQty= {productosQty}/>]
 
 
     return(

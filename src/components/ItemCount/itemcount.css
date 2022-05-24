@@ -1,0 +1,41 @@
+.itemcount-cont {
+  border: 1px solid #e3e3e3;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  height: 150px;
+  margin: auto;
+  margin-top: 40px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.handleQtys {
+  display: flex;
+  background-color: white;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid #e3e3e3;
+  width: 50%;
+  height: 30px;
+}
+
+.showItems {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+.showItems > p {
+  margin-right: 10px;
+}
+
+.addToCar {
+  color: #60a2ee;
+  padding: 6px;
+  width: 50%;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #60a2ee;
+}
