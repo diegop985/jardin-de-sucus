@@ -27,9 +27,6 @@
   width: 50%;
   justify-content: space-between;
 }
-.showItems > p {
-  margin-right: 10px;
-}
 
 .addToCar {
   color: #60a2ee;

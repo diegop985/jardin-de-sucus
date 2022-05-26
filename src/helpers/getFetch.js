@@ -16,7 +16,7 @@ const productos = [
         description: 'lorem ipsum dolor sit amet bla bla bla bla bla bla', 
         stock: 8, 
         price: 13, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/QjoWYx8.jpg'
     },
     {
         id: '3',
@@ -25,7 +25,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 4, 
         price: 9, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/3QdG167.jpg'
     },
     {
         id: '4',
@@ -34,7 +34,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 1, 
         price: 15, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/ilqsywF.jpg'
     },
     {
         id: '5',
@@ -43,7 +43,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 20, 
         price: 19, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/yJ9Ea9d.jpg'
     },
     {
         id: '6',
@@ -52,7 +52,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 15, 
         price: 20, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/zXznBTl.jpg'
     },
     {
         id: '7',
@@ -61,7 +61,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 15, 
         price: 12, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/rtC2RfA.jpg'
     },
     {
         id: '8',
@@ -70,7 +70,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 9, 
         price: 4, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/yDnZlbT.jpg'
     },
     {
         id: '9',
@@ -79,7 +79,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 18, 
         price: 14, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/hOP6xTg.jpg'
     },
    
 ]

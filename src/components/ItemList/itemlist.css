@@ -1,0 +1,11 @@
+.itemList {
+  width: 900px;
+  height: auto;
+  margin: auto;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 260px);
+  grid-auto-rows: 350px;
+  gap: 50px;
+  place-content: center;
+}
