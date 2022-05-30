@@ -7,7 +7,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 10, 
         price: 10, 
-        foto: 'https://i.imgur.com/sIMr8mr.jpg'
+        foto: 'https://i.imgur.com/rtC2RfA.jpg'
     },
     {
         id: '2',
@@ -61,7 +61,7 @@ const productos = [
         description: "lorem ipsum dolor sit amet bla bla bla bla bla bla", 
         stock: 15, 
         price: 12, 
-        foto: 'https://i.imgur.com/rtC2RfA.jpg'
+        foto: 'https://i.imgur.com/sIMr8mr.jpg'
     },
     {
         id: '8',
